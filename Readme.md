@@ -12,7 +12,7 @@
 
 </center>
 
-<iframe width="731" height="411" src="https://www.youtube.com/embed/d-Dr-eKL9Hc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[link a video introductorio del curso](https://www.youtube.com/embed/d-Dr-eKL9Hc)
 
 1. Comenzaremos con un primer módulo enfocado al UX Research donde se aprenderá cómo realizar una buena investigación con diferentes técnicas de síntesis terminando este módulo con una parte de casos prácticos.
 2. Para continuar, tenemos un módulo en el que comprenderemos el concepto MVP, como realizar una correcta priorización de tareas (método MoSCoW) y como realizar un value proposition canvas.
@@ -22,13 +22,14 @@
 ## **Temario**
 
 1. Introducción a UX Research.
-1.1. Introducción.
-1.2. Ámbitos de investigación.
-1.3. Técnicas de síntesis generativas-cualitativas.
-1.4. Técnicas de síntesis generativas-cuantitativas.
-1.5. Técnicas de síntesis evaluativas-cualitativas.
-1.6. Técnicas de síntesis evaluativas-cuantitativas.
-1.7. Casos prácticos.
+
+    1.1. Introducción.
+    1.2. Ámbitos de investigación.
+    1.3. Técnicas de síntesis generativas-cualitativas.
+    1.4. Técnicas de síntesis generativas-cuantitativas.
+    1.5. Técnicas de síntesis evaluativas-cualitativas.
+    1.6. Técnicas de síntesis evaluativas-cuantitativas.
+    1.7. Casos prácticos.
 
 2. Estrategia de producto: Definiendo el MVP.
 2.1. Definiendo el MVP.

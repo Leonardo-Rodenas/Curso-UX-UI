@@ -166,5 +166,19 @@ Con estas encuestas obtenemos números, pero esos números por si solos son supe
 
 </center>
 
+- **Análisis de embudo:** Se trata de analizar el paso del usuario por distintas pantallas (en nuestro caso activitys, fragments) hasta llegar a una conversión (conversión = lo que el usuario quiere hacer y que para nosotros conocerlo e identificarlo nos genera valor). Importante es analizar cuantos avanzan a las siguientes pantallas y cuantos se quedan atrás (ejemplo: app de compras, cuantos pasan por todas las pantallas para realizar la compra o se quedan sólo mirando el catálogo).
+
+- **Testeo A/B:** Se usan dos versiones del producto y se le da a probar una versión a un grupo control y otra a otro grupo diferente (de similares carácteristicas) y luego se realiza la compración de datos obtenidos para determinar en función del análisis si una versión es mejor o no que la otra. Siempre nace a partir de una hipotésis tipo "si hago esto, mejoro esto".
+
+- **Mapas de calor:** Se recopilan las interacciónes del usuario con el prototipo. Este mapa es generado a partir de donde el usuario hace más click (o toca, o mira con eye-tracking) para determinar el comportamiento de la persona que prueba el prototipo ante la forma de usarlo.
+  
+- **Patrones de navegación:** Desde una pantalla inicial, determina a dónde se va cada usuario (un % hacia una ventana "A", otro % a la ventana "B", otro a "C" y así).
+  
+- **Gestos sin respuesta:** Determina las interacciones del usuario que **NO** tienen una respuesta por parte del producto (es importante para determinar uso y comportamiento del usuario).
+
+- **Cuestionarios cuantitativos:** Cuestionario que transforma la percepción del usuario a una forma cuantitativa de medir su agrado/rechazo por parte del producto.
+
+Algunas de las herramientas más usadas salen a la derecha de la imagen, importante mencionar uxcam (apps) y hotjar (web) las cuales permiten múltiples funciones y recopilar data con videos y mapas de calor.
+
 
 

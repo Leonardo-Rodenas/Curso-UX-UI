@@ -13,18 +13,17 @@
 </center>
 
 1. Introducción a UX Research
-    1.1 Introducción
-    1.2 Ámbitos de investigación
-    1.3 Técnicas de síntesis generativas-cualitativas
-    1.4 Técnicas de síntesis generativas-cuantitativas
-    1.5 Técnicas de síntesis evaluativas-cualitativas
-    1.6 Técnicas de síntesis evaluativas-cuantitativas
-    1.7 Casos prácticos
-
+    1.1 [Introducción](#id1)
+    1.2 [Ámbitos de investigación](#id2)
+    1.3 [Técnicas de síntesis generativas-cualitativas](#id3)
+    1.4 [Técnicas de síntesis generativas-cuantitativas](#id4)
+    1.5 [Técnicas de síntesis evaluativas-cualitativas](#id5)
+    1.6 [Técnicas de síntesis evaluativas-cuantitativas](#id6)
 
 ### **1. Introducción a UX Research:**
 
-### **1.1 Introducción:**
+<div id='id1'>
+### **1.1 Introducción:**<a name="id1"></a>
 
 **¿Qué significa Investigar? →** En el ámbito de UX, lo que trataremos de hacer es entender bien el problema antes de resolverlo, para esto se busca recaudar el conocimiento necesario para obtener estos inputs insights que necesitan los diseñadores para continuar con su trabajo. Algunas de las razones para investigar son:
 
@@ -33,7 +32,8 @@
 - Entregar conocimientos.
 - Evaluar soluciones.
 
-### **1.2 Ámbitos de investigación:**
+<div id='id2'>
+### **1.2 Ámbitos de investigación:**<a name="id2"></a>
 
 Son 4 los ámbitos de investigación:
 
@@ -79,7 +79,8 @@ Para recaudar la información existen diversas técnicas segun el cuadrante de l
 
 Una vez obtenida la información esta se sintetiza y comunica de manera efectiva a los programadores / diseñadores, con el fin de reducir el tiempo de analisis de la misma.
 
-### **1.3 Técnicas de síntesis generativas-cualitativas:**
+<div id='id3'>
+### **1.3 Técnicas de síntesis generativas-cualitativas:** <a name="id3"></a>
 
 - **Mapa de Empatía:**
 
@@ -127,7 +128,8 @@ En este esquema lo que se hace es tomar la experiencia del usuario y ponerla en 
 
 </center>
 
-### **1.4 Técnicas de síntesis generativas-cuantitativas:**
+<div id='id4'>
+### **1.4 Técnicas de síntesis generativas-cuantitativas:** <a name="id4"></a>
 
 <center>
 
@@ -143,7 +145,8 @@ La herramienta maestra de este punto es el uso de **encuestas**, para ellas nece
 
 Con estas encuestas obtenemos números, pero esos números por si solos son superficiales, la gracia es segmentar los datos en informes de segmentación para así sacar información del usuario (que responde? en que situación? como lo compara con otro grupo o usuario distinto??). Estos datos obtenidos y analizados luego se plasman en gráficas o mejor aún en infografías que muestren más amigablemente y fácil la info recolectada.
 
-### **1.5 Técnicas de síntesis evaluativas-cualitativas:**
+<div id='id5'>
+### **1.5 Técnicas de síntesis evaluativas-cualitativas:** <a name="id5"></a>
 
 <center>
 
@@ -158,7 +161,8 @@ Con estas encuestas obtenemos números, pero esos números por si solos son supe
 3. **Herramientas de grabación:** Permite estudios escalables y analisis posterior y revisión de datos.
 4. **Clasificar Feedback:** Todo lo que diga el usuario en la prueba debe ser procesado para ofrecer luego insights y mejoras integración al proyecto.
 
-### **1.6 Técnicas de síntesis evaluativas-cuantitativas:**
+<div id='id6'>
+### **1.6 Técnicas de síntesis evaluativas-cuantitativas:** <a name="id6"></a>
 
 <center>
 

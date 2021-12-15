@@ -243,4 +243,63 @@ Como se puede ver figma es de las más potentes y útiles del mercado:
 
 <div id='id4'>
 ### **4.4 Componentes y variantes en Figma (práctica):**<a name="id4"></a>
+    
+- [Herramienta web a utilizar](https://www.figma.com/files/recent?fuid=997162766004607704).
+  
+<center>
+
+**FIGMA**
+
+![img](https://i.imgur.com/5Uf0akw.png)
+
+</center>
+
+**Creación de Estilos**
+
+- Color.
+- Texto.
+- Espacio.
+
+En Sketch, propiedades de estilo van en conjunto (no separables), en Figma cada propiedad tiene sus propios estilos (más adaptable al usuario, permite copiar-pegar estilos).
+
+Los estilos son creados en primera instancia analizado los atajos de teclado (click derecho, "keyboard shortcuts" si no me los sé), luego creando una forma/texto y dandole click en os 4 puntitos al lado de los atributos, esto permite con la pantalla que sale dar click en el "+" y crear este estilo, el que permite aplicar a cada uno de los componentes que siguen a continuación (mantiene el branding a través del documento).
+
+Se pueden tener varios estilos, recordadando que no se pueden repetir y que se les puede agrupar dentro de uno mas grande como subcategorías (esto se hace poniendolo la barra "/" al lado para demostrar su pertenencia a otro estilo mayor).
+
+También destaca la importancia de trabajar con grids (guías) para mantener el orden al crear los wireframe y como estas pueden ocultarse o hacerse visibles al momento de crear el diseño.
+
+**Creación de Componentes**
+
+**¿Cuando crearlos?:** Cuando sean todos los componentes susceptibles de repetición.
+
+Es importante trabajar con autolayout (propiedad de diseño a la derecha), la cual permite que los componentes se ajusten a la vista (wrap_content || match_parent, similares), ademas de colocar imagenes y crear paddings entre elementos fijos (se puede crear un carrusel y mostrar u ocultar imagenes para ver como se adapta la vista al requerimiento).
+
+<center>
+
+![autolauout](https://i.imgur.com/lkfbQ5L.png)
+
+</center>
+
+Los componentes en sí se pueden crear de 3 formas:
+
+<center>
+
+![creaciocomponente](https://i.imgur.com/J8QCZW1.png)
+
+</center>
+
+Tomar en cuenta que al crear un componente, este inicial es el master, y que a aprtir del master se crear instancias que permiten aplicar las propiedades de master a los hijos (no al revés) (master es como el molde del que se heredan propiedades).
+
+La profe tambien muestra el trabajar con las modificaciones en los hijos (no el master) y como se utilizan las variants para agilizar el trabajo de diseño (muestra una bottom navigation bar y como puede fácilmente cambiar el estado de los botones a "activo" e "inactivo").
+
+<center>
+
+![tabbarr](https://i.imgur.com/lLt0sff.png)
+
+</center>
+
+Se sugiere crear una nueva página de componentes con un pool de estos para reutilizar (copiar y pegar donde se necesite). Se muestran ejemplos de como crea un carrusel, de spotify y cambiar la imagen, además de distintos componentes y variants.
+
+**Resumen Leo:** Me gusta la utilidad de Figma, debo meterle más power y manejarla mejor, pues me permitirá ordenar ideas y crear una mejor apariencia de las apps de cara al usuario.
+
 

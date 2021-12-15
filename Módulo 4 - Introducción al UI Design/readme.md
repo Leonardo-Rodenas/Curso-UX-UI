@@ -134,15 +134,112 @@ De esto se desprende el siguiente análisis:
 <div id='id2'>
 ### **4.2 ¿Qué es un Design System y para qué sirve?:**<a name="id2"></a>
 
+**Design System:** Está formado de partes más tangibles o visibles que otras. En un lenguaje de diseño en el que todas las personas involucradas pueden participar, entender y aportar al producto. Con el objetivo de crear un producto escalable, consistente e intuitivo.
+
+**UI Kit:** No confundir con el anterior, este es un archivo que incluye varios elementos ya diseñados (botones, íconos, tablas, formularios, sliders, etc.) para ayudarnos en el desarrollo de nuestras interfaces e usuario.
+
+**Style Guide:** Documento que describe los patrones, estilos, componentes, prácticas y principios de una compañia y que enseña cómo deben aplicarse estos. 
+
+**¿Qué contiene un Design System?**
+
+1. Design principles (conceptos clave y valores).
+2. Style Guide (la base de la interfaz).
+3. Grid sizes (diagramación y espacios).
+4. Core (design Tokens).
+5. Components (parte central del UI, elementos con un propósito).
+6. Patterns (varios pasos o repetirse en los proyectos).
+7. Repositorio (como la fuente de todo actualizado).
+8. Documentación.
+9. Voice & tone.
+10. Transiciones y micro-interacciones.
+11. Accesibilidad.
+12. Un nombre! 
+
+***SI NO ESTÁ ESCRITO, NO EXISTE -->*** Nadie tiene que andar adivinando las cosas, hay que dejar registro de todo.
+
+**Creación de la guía de estilo:** 
+
+<center>
+
+![creacionstyleguide](https://i.imgur.com/97u6ir4.png)
+
+</center>
+
+**Por donde empezar:**
+
+1. **Benchmark:** Reúne y organiza referencias interactivas, best practices y estilos visuales.
+2. **Define Estilo:** Ten un brief, busca imágenes que te representen (moodboard).
+3. **Brand:** Selecciona la combinación de colores y tipografía que te representen.
+4. **Elementos:** Piensa en otros elementos que puedas necesitar.
+5. **Empezar con lo mínimo:** Tener las cosas que sé que voy a necesitar desde un inicio.
+
+<center>
+
+![ejemplo](https://i.imgur.com/ZNNK6r4.png)
+Ejemplo de guía de estilo de Airbnb
+
+</center>
+
+**Creación de una librería (UI Kit):**
+
+- Debemos estandarizar nuestros estilos.
+- Crear normas de relación entre los elementos.
+- Aplicaremos estos estilos a los distintos elementos que forman parte de nuestro diseño.
+- Parecido al diseño editorial (establecemos estilos de texto, párrafo, colores,estilos de objeto).
+
+**Trabajar con estilos y componentes:**
+
+|**Estilos**|**Componente**|
+|-----------|--------------|
+|Parámetros de tu marca (branding)|Diferentes partes que componen la interfaz|
+
+**Diseño por componentes desde una unidad mínima**
+
+<center>
+
+![atom pages](https://i.imgur.com/QnDP4vY.png)
+Izq: Sistema // Der: Producto
+
+![ejem](https://i.imgur.com/R8JQTZu.png)
+
+</center>
+
+**Ventajas de un Design System**
+
+<center>
+
+![ventajas](https://i.imgur.com/saEtJhj.png)
+
+</center>
 
 
+**Referencias**
 
-
-
-
+- [Design System Repo](https://designsystemsrepo.com)
+- [The component Gallery](https://component.gallery/design-systems/)
+- [Design System Gallery](https://www.designsystems.io/design-system-gallery/)
 
 <div id='id3'>
 ### **4.3 Componentes y variantes en Figma:**<a name="id3"></a>
+
+<center>
+
+![img](https://i.imgur.com/fxLz7k0.png)
+
+</center>
+
+Como se puede ver figma es de las más potentes y útiles del mercado:
+
+**Ventajas de Figma:**
+
+1. Trabajo colaborativo.
+2. Enfocado al diseño Producto Digital.
+3. Todo en uno.
+4. Exportación de assets.
+5. Autolayout.
+6. Smart animate.
+7. Variants.
+8. Componentes interactivos (BETA).
 
 <div id='id4'>
 ### **4.4 Componentes y variantes en Figma (práctica):**<a name="id4"></a>
